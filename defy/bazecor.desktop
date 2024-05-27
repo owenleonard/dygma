@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Bazecor
+Exec=/home/owen/.local/bin/bazecor
+Terminal=false
+Type=Application
+Icon=/home/owen/.local/share/icons/Bazecor/bazecor.png
+Comment=Dygma Defy Configuration Application
+MimeType=x-scheme-handler/bazecor;x-scheme-handler/bazecor;
+Categories=Utilities;
