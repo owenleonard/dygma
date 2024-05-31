@@ -133,10 +133,8 @@
       "verbose": "Page Up"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 53,
+      "label": "`"
     },
     {
       "keyCode": 20,
@@ -454,7 +452,7 @@
     2,
     2,
     10,
-    12,
+    2,
     2,
     2,
     2,
