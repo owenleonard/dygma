@@ -3,9 +3,9 @@
 ## Layers
 I have two different layers I use as base layers - Linux and MacOS. My attempt here is to make the shortcuts between the two OS's as similar as possible. I use one of the inside keys on the right keyboard to switch between the two layers (`Lock 5` on the linux layer, `Lock 1` on the macos layer). By using `lock` keys I can set several of the thumbkeys to `transparent` on the other lays so they inherit whatever the setting was on the base layer.
 
-For example, on the linux layer, the big thumbkey on the left side is `left linux` and the thumbkey to its left and up is `left ctrl`. On the macos layer, those two are swapped. So, if I want to copy something (ctrl+c on linux, cmd+c on macos), the motions are identical. When I go to one of the other layers (symbols, numbers and functions, navigation) from the linux layer, the big thumbkey is still `left linux`. However, if I go to one of those other layers from the macos layer, the big thumbkey is `left ctrl`.
+For example, on the linux layer, the big thumbkey on the left side is `left linux` and the thumbkey to its left and up is `left ctrl`. On the macos layer, those two are swapped. So, if I want to copy something (ctrl+c on linux, cmd+c on macos), the motions are identical. When I go to one of the other layers (symbols, numbers and functions) from the linux layer, the big thumbkey is still `left linux`. However, if I go to one of those other layers from the macos layer, the big thumbkey is `left ctrl`.
 
-I also use three of the left thumbkeys to go to the three layers (Symbols, Numbers and functions, Navigation) using one shot layer keys, and they are set to transparent on those three other layers. If I came from the linux layer, pressing those buttons again will return me to the linux layer. If I came from the macos layer, pressing those buttons again will return me to the macos layer.
+I also use three of the left thumbkeys to go to the three layers (Symbols, Numbers and functions) using one shot layer keys, and they are set to transparent on those three other layers. If I came from the linux layer, pressing those buttons again will return me to the linux layer. If I came from the macos layer, pressing those buttons again will return me to the macos layer.
 
 ### Linux
 This is the base layer I use with Linux (and Windows) systems. The modifier keys are set to make shortcuts easy for me. There is also a `lock` button that will switch to the `MacOS` layer that is very similar, but with the modifier keys arranged differently to make the shortcut motions as similar as possible to linux.
@@ -13,32 +13,26 @@ This is the base layer I use with Linux (and Windows) systems. The modifier keys
 `shift` and `space` are the two most frequently used keys for me, so I put them in the default thumb positions. For some reason, I always press the space key with my right thumb on regular keyboards, so I only have a space key on the right side.
 
 
-![Linux layer screenshot](images/Linux.jpg)
+![Linux layer screenshot](images/Linux.png)
 [Linux layer](layers/Linux.json)
 
 ### MacOS
 This layer is nearly identical to the linux layer, but with the modifier keys slightly modified to make shortcut motions as similar as possible.
 
-![MacOS layer screenshot](images/MacOS.jpg)
+![MacOS layer screenshot](images/MacOS.png)
 [MacOS layer](layers/MacOS.json)
 
 ### Symbols
 After regular letters, symbols are the next most frequently used keys for me. The ctrl, alt, super/os keys are set to `transparent` so they match the base layer you are coming from (Linux or MacOS).
 
-![Symbols layer screenshot](images/Symbols.jpg)
+![Symbols layer screenshot](images/Symbols.png)
 [Symbols layer](layers/Symbols.json)
 
 ### Numbers and functions
 I like having a number pad, so this layer mimics that for me. I also put all of the function keys on the left side so they are easy to use.
 
-![Numbers and functions layer screenshot](images/Numbers%20and%20functions.jpg)
+![Numbers and functions layer screenshot](images/Numbers%20and%20functions.png)
 [Numbers and functions layer](layers/Numbers%20and%20functions.json)
-
-### Navigation
-I have seen a lot of layers that have the arrow keys on the left side, but I prefer to have them on the right since that is what I'm used to.
-
-![Navigation layer screenshot](images/Navigation.jpg)
-[Navigation layer](layers/Navigation.json)
 
 ## Extra Configuration
 
