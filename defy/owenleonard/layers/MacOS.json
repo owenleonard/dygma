@@ -128,10 +128,9 @@
       "label": "0"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 75,
+      "label": "PAGE UP",
+      "verbose": "Page Up"
     },
     {
       "keyCode": 0,
@@ -202,10 +201,9 @@
       "label": "P"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 78,
+      "label": "PAGE DOWN",
+      "verbose": "Page Down"
     },
     {
       "keyCode": 49154,
@@ -279,10 +277,8 @@
       "label": "L"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 82,
+      "label": "↑"
     },
     {
       "keyCode": 0,
@@ -354,26 +350,20 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 80,
+      "label": "←"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 81,
+      "label": "↓"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 79,
+      "label": "→"
     },
     {
-      "keyCode": 49164,
-      "label": "4",
+      "keyCode": 49163,
+      "label": "3",
       "extraLabel": "OSL"
     },
     {
@@ -410,9 +400,10 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 49163,
-      "label": "3",
-      "extraLabel": "OSL"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 0,
@@ -490,15 +481,15 @@
     7,
     7,
     12,
-    3,
     12,
+    1,
     2,
     2,
     2,
     2,
     2,
     10,
-    12,
+    1,
     2,
     2,
     2,
@@ -506,15 +497,15 @@
     2,
     2,
     12,
-    12,
+    1,
     2,
     2,
     2,
     2,
     10,
-    12,
-    12,
-    12,
+    1,
+    1,
+    1,
     12,
     2,
     2,
