@@ -416,10 +416,10 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 0,
@@ -498,7 +498,7 @@
     7,
     7,
     12,
-    3,
+    12,
     15,
     12,
     12,
